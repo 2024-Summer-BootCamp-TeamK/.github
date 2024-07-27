@@ -3,6 +3,9 @@
 ## 시스템 아키텍쳐
 <img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="1000" height="700"/>
 
+## API 
+![api](https://github.com/user-attachments/assets/15af50c0-8632-4886-a32d-ccf5d77446f4)
+
 
 
 ## ERD
@@ -20,7 +23,7 @@
 
 | Name    | <center>김진우</center>|<center>박우현</center> |<center>서지민</center> | <center>송지우</center> | <center>이창연</center> | <center>한현승</center>
 | ------- | --------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------- | --------------------------------------- | ------------------------------------ |
-| Profile | <center> <img width="100px" height="100px" src="https://github.com/user-attachments/assets/c4b2de27-7104-4f48-a74d-9f42d03d0ac7" /> </center>|<center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/ce51a4bb-9b91-41c0-ad09-19815609f3ba" /></center>|<center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/ad8bf83d-19b2-4209-8208-22c0ebec2665" /></center>|<center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" /></center>|<center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/5ba4f21d-4a9f-4598-993f-d9483692507a" /></center>| <center><img width="100px" height="100px" src="https://github.com/user-attachments/assets/4f42b601-7fdc-4cd0-9df5-358e4bfed163" /></center>
+| Profile | <center> <img width="100px" height="110px" src="https://github.com/user-attachments/assets/c4b2de27-7104-4f48-a74d-9f42d03d0ac7" /> </center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/ce51a4bb-9b91-41c0-ad09-19815609f3ba" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/ad8bf83d-19b2-4209-8208-22c0ebec2665" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/50d5df7b-bbc5-4b53-b75f-71a7d786f1d5" /></center>|<center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/5ba4f21d-4a9f-4598-993f-d9483692507a" /></center>| <center><img width="100px" height="110px" src="https://github.com/user-attachments/assets/4f42b601-7fdc-4cd0-9df5-358e4bfed163" /></center>
 | role    | <center>Team Leader<br>Backend<br> DevOps</center>   | <center>Backend<br> DevOps</center>    | <center>Backend<br> DevOps</center>  | <center>Frontend<br> UI/UX</center> | <center>Frontend<br> UI/UX</center> | <center>Backend<br> DevOps</center> 
 GitHub | <center>[@jinu0328](https://github.com/jinu0328)</center> | <center>[@woohyun23](https://github.com/woohyun23) </center>| <center>[@Lauiee](https://github.com/Lauiee) </center>| <center>[@JiWoo12161](https://github.com/JiWoo1261)</center> | <center>[@changyeonyes](https://github.com/changyeonyes)</center> | <center>[@82everywin](https://github.com/82everywin)</center>
 

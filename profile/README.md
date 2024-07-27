@@ -27,5 +27,4 @@ GitHub | <center>[@jinu0328](https://github.com/jinu0328)</center> | <center>[@w
 
 
 
-![IMG_6079](https://github.com/user-attachments/assets/dba34101-b9a8-42b5-bd4d-a68f75559b58)
 

@@ -45,18 +45,28 @@
 <br>
 
 
-## 🎥 Demo 
+## 🎥 Demo
 
-## 🛠️System Architecture
+</br>
+</br>
+
+## 🛠️ System Architecture
 <img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="1000" height="700"/>
+
+</br>
+</br>
 
 ## 📚 API 
 ![api](https://github.com/user-attachments/assets/15af50c0-8632-4886-a32d-ccf5d77446f4)
 
-
+</br>
+</br>
 
 ## 💿 ERD
  ![erd](https://github.com/user-attachments/assets/c17336a9-e383-4bad-81ff-6b9c870f4ebc)
+
+</br>
+</br>
 
 ## 💻 Tech Stack
 
@@ -67,6 +77,8 @@
 |<b>DevOps</b>| <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=white"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">|
 |<b>etc</b>|<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> |
 
+</br>
+</br>
 
 ## 👨🏻‍💻👩🏻‍💻팀원 소개
 

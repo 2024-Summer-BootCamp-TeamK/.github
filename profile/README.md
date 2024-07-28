@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center" style="font-size:18px"> 
-<b>Let’s Share Diaries and Decorate Together! </b> </div>
+<b>Share your Contract with us! </b> </div>
 <p align="center">
 
 </p>

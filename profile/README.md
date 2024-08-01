@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/8cd55aa4-7d05-4169-8d52-6397b9261677">
+  <img width="800" alt="LAWBOT 로고" src="https://github.com/user-attachments/assets/c8f402fe-4776-47e4-b317-509b3597fc43">
 </p>
 
 
@@ -91,7 +91,7 @@
 <br>
 
 - 서로의 이름이 마우스 포인터가 되어, 실시간으로 화면이 공유되고 있습니다. 
-<img width="700" alt="image" src="">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/539c21d7-c5dc-45e9-988a-58903a534631">
 
 <br>
 <br>
@@ -105,13 +105,20 @@
 <br>
 
 ## 🛠️ System Architecture
-<img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="850" height="600"/>
+
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="850" height="600"/>
+</p>
 
 </br>
 </br>
 
 ## 📚 API 
-![api](https://github.com/user-attachments/assets/15af50c0-8632-4886-a32d-ccf5d77446f4)
+
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/15af50c0-8632-4886-a32d-ccf5d77446f4"/>
+</p>
 
 </br>
 </br>

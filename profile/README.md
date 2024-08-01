@@ -143,6 +143,49 @@
 </br>
 </br>
 
+## 📌 How to start
+```sh
+# clone our project
+git clone -b develop --single-branch https://github.com/2024-Summer-BootCamp-TeamK/Docker.git
+```
+```sh
+# set .env on Docker/.env
+MYSQL_DATABASE=
+MYSQL_USER=
+MYSQL_PASSWORD=
+MYSQL_ROOT_PASSWORD=
+
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_STORAGE_BUCKET_NAME=
+AWS_S3_REGION_NAME=
+
+PDFCO_API_KEY=
+
+PINECONE_API_KEY=
+
+OPENAI_API_KEY=
+
+EMAIL_HOST_USER=
+EMAIL_HOST_PASSWORD=
+
+RABBITMQ_DEFAULT_USER=
+RABBITMQ_DEFAULT_PASS=
+
+CELERY_BROKER_URL=
+CELERY_BROKER_API_URL=
+
+app_sid=
+app_key=
+
+KMS_KEY_ID=
+```
+```sh
+# build docker
+docker compose up -d --build
+```
+<br></br>
+
 ## 👨🏻‍💻👩🏻‍💻팀원 소개
 
 | Name    | <center>김진우</center>|<center>박우현</center> |<center>서지민</center> | <center>송지우</center> | <center>이창연</center> | <center>한현승</center>

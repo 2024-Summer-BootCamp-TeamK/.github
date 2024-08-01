@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img width="500" alt="image" src="">
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/8cd55aa4-7d05-4169-8d52-6397b9261677">
 </p>
 
 
@@ -47,8 +47,62 @@
 
 ## 🎥 Demo
 
-</br>
-</br>
+### 📝 메인페이지 
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/7966b1a1-cf57-4900-8981-0566c097cd5c">
+
+<br>
+<br>
+
+### 📝 계약서 검토 
+- 검토받은 계약서의 카테고리를 선택하세요.
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/ac485e9b-12fb-4ebc-a84f-e9283c6d6430">
+
+<br>
+<br>
+
+- 파일을 업로드해주세요. AI가 자동으로 검토허고 있으니, 잠시만 기다려주세요.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/9eaa1e14-2f4c-492b-b686-24aa1f8a339d">
+
+
+<br>
+<br>
+
+### 📝 검토 결과와 수정 계약서 PDF 저장
+- AI가 자동으로 주요조항과 주의조항을 분리해주었으니, 검토 결과를 한번 살펴보세요.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/3a129da5-2e36-4980-9d09-e7b65a79be8e">
+
+<br>
+<br>
+
+- 수정안을 담으면, 변경된 PDF를 저장해보세요.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/43178e0a-8cfd-409d-b24c-c361e6c8c68e">
+
+<br>
+<br>
+
+### 📝 계약서 화면 공유 및 서명 
+
+- 함꼐 검토해볼 계약서의 카테고리를 선택하고, 입장할 사람들의 이메일을 입력해보세요.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/4bb5f2d5-b690-4e2f-8914-cc251d9ad03b">
+
+<br>
+<br>
+
+- 서로의 이름이 마우스 포인터가 되어, 실시간으로 화면이 공유되고 있습니다. 
+<img width="700" alt="image" src="">
+
+<br>
+<br>
+
+- 검토를 마치면, 서로의 서명을 삽입하여 알맞은 위치로 옮겨 계약을 성사시키세요.
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f9d05db6-8f72-4cdb-9b38-4256c2cabf7c">
+
+<br>
+<br>
+
+<br>
 
 ## 🛠️ System Architecture
 <img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="850" height="600"/>

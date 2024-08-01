@@ -13,7 +13,6 @@
   <img width="800" alt="LAWBOT 로고" src="https://github.com/user-attachments/assets/c8f402fe-4776-47e4-b317-509b3597fc43">
 </p>
 
-
 ## 🎨 Introduce
 
 <table width="1200px">
@@ -22,7 +21,7 @@
     <tbody>
     <tr>
          <td width="600" align="center">
-            <img width="300" alt="image" src="">
+            <img width="700" alt="image" src="https://github.com/user-attachments/assets/95a7f62a-b55b-4e21-aec3-a82ab0d1af98">
         </td>
         <td width="600" align="center">
             <div align="left">

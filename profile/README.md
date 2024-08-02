@@ -31,6 +31,8 @@
 <br><br>현대의 계약서는 법률적 용어와 복잡한 조항으로 가득 차 있어, 이를 이해하고 검토하는 것이 일반인에게는 매우 어려운 작업일 수 있습니다.
 <br>특히, 계약서의 독소 조항을 놓치기 쉽기 때문에, 법적 분쟁을 예방하기 위해서는 신중한 검토가 필요합니다. 
 <br>하지만, 이러한 작업을 법률 전문가가 직접 수행하는 경우, 많은 시간과 비용이 소요될 수 있습니다.
+<br>그래서 저희는, 계약서를 자동으로 검토하고, 함께 서명할 수 있는 서비스를 개발하였습니다.
+<br>AI 계약서 검토 서비스 LAWBOT입니다.
 <br/><br/>
 
 </br>
@@ -61,7 +63,7 @@
 <br>
 <br>
 
-- 파일을 업로드해주세요. AI가 자동으로 검토허고 있으니, 잠시만 기다려주세요.
+- 파일을 업로드해주세요. AI가 자동으로 검토하고 있으니, 잠시만 기다려주세요.
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/9eaa1e14-2f4c-492b-b686-24aa1f8a339d">
 
 
@@ -107,7 +109,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ce522d34-5bc7-404e-90a1-7c86519606d7" width="850" height="600"/>
+   <img src="https://github.com/user-attachments/assets/0d096d3f-5c99-4cf5-b962-817f4330e0e2" width="850" height="600"/>
 </p>
 
 </br>
@@ -149,7 +151,7 @@
 git clone -b develop --single-branch https://github.com/2024-Summer-BootCamp-TeamK/Docker.git
 ```
 ```sh
-# set .env on Docker/.env
+# Create the .env file in the Docker/.env path
 MYSQL_DATABASE=
 MYSQL_USER=
 MYSQL_PASSWORD=

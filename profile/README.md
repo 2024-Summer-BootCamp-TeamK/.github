@@ -4,6 +4,9 @@
 </h1>
 
 <div align="center" style="font-size:18px"> 
+<br>
+<b>🏆 2024 Techeer S/W Summer BootCamp 2등 🏆</b><br>
+<br><br>
 <b>Share your Contract with us! </b> </div>
 <p align="center">
 
